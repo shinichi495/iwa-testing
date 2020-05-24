@@ -10,3 +10,6 @@ Need To Improve
 - Setup room for load local DB
 - Setup String to localization in future
 - Write Unit test
+- Write core to navigation structure
+- Define business flow
+- Handle error network
